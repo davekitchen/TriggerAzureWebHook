@@ -8,4 +8,10 @@ You want to perform this activation in a c# function using .Net 6 or higher and 
 
 This is a working example. However, please note the Webjob being called here was deleted before posing so you will get a 404 error. Replace the parameters with those provided by the Azure dashbord for your own Web Job.
 
-P.s. When you go live with your code I don't recomend hard coding credentials as per this example.
+Solution:
+
+Everything you want to see is contained within the Program.cs file.
+
+Comment:
+
+When you go live with your code I don't recomend hard coding credentials as per this example.
