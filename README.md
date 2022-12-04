@@ -15,3 +15,10 @@ Everything you want to see is contained within the Program.cs file.
 Comment:
 
 When you go live with your code I don't recomend hard coding credentials as per this example.
+04-12-2022 Microsoft love to provide webhooks ....
+
+triggeredwebjobs/<functionname>/start
+
+these normally don't work so try:
+
+triggeredwebjobs/<functionname>/run
